@@ -7,10 +7,14 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <record name="requires" javaclass="com.wm.util.Values">
-    <value name="Metering">1.0</value>
-  </record>
-  <value name="listACL">Default</value>
+  <null name="requires"/>
+  <null name="listACL"/>
   <value name="webappLoad">yes</value>
-  <value name="reloadWithDependentPackage">yes</value>
+  <value name="name">Metering</value>
+  <value name="build">10.5.0.0.1646719922753</value>
+  <null name="description"/>
+  <value name="time">2022-03-08 11:42:02 IST</value>
+  <value name="jvm_version">1.8.0_222</value>
+  <value name="publisher">VMSIQAE2E04.eur.ad.sag</value>
+  <value name="patch_nums"></value>
 </Values>
